@@ -17,7 +17,7 @@
 
 (1) シェルスクリプトファイルを下記のリンクよりダウンロードします。
 
-(cloud9tuning.shファイルのリンク)
+[cloud9tuning.sh](shell/cloud9tuning.sh)
 
 (2)ダウンロードができたら、AWS Cloud9の左ファイルツリーの一番上のフォルダ（WordPress_ で始まるフォルダ）をクリックして選択してから、「File」から Update Local Files... を選択してください。
 

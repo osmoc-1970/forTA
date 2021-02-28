@@ -37,6 +37,8 @@
 bash cloud9tuning.sh
 ```
 
+![コマンド入力画面](https://i.gyazo.com/a23f71b4d83c0efdb7ebb0248d5d16b9.png)
+
 数十秒かかるとコマンドが終了します。「swap領域の拡張...完了」が表示されれば完了です。
 
 ![完了画面](https://i.gyazo.com/df8c06601e867f8d05c142d36d875b2c.png)
